@@ -1,0 +1,22 @@
+.education-container {
+    margin-bottom: 30px;
+  }
+  
+  .education-heading {
+    color: #333;
+    font-size: 24px;
+    margin-bottom: 10px;
+  }
+  
+  .education-degree {
+    color: #555;
+    font-size: 18px;
+    margin-bottom: 5px;
+  }
+  
+  .education-institution,
+  .education-date {
+    color: #777;
+    margin-bottom: 5px;
+  }
+  
